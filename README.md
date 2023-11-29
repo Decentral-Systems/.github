@@ -1,2 +1,1 @@
-# .github
-Decentral Systems
+# Decentral Systems
